@@ -18,7 +18,7 @@ Level 1
     the number, and the program will give feedback if the
     guess is too high or too low.
 
-Task 2: Number Guessing Game
+<h2>Task 2: Number Guessing Game</h2>
 
   Use the random module to generate a random number.
   Could you give the user multiple attempts to guess the number?
